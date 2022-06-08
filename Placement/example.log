@@ -1,0 +1,18 @@
+2022-06-06 19:40:33,579 INFO This the beginning of the code for entering test
+2022-06-06 19:40:33,580 ERROR Code break-down, ERROR!!
+2022-06-06 19:40:33,580 ERROR Encountered an Exception, [Errno 2] No such file or directory: 'test'
+Traceback (most recent call last):
+  File "C:\Users\MAHESH~1\AppData\Local\Temp/ipykernel_9052/2121621998.py", line 8, in string_replacement
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'test'
+2022-06-06 19:41:03,314 INFO This the beginning of the code for entering example.txt
+2022-06-06 19:41:03,317 INFO Replaced the  string successfully.
+2022-06-08 14:03:53,802 INFO This the beginning of the code for entering example
+2022-06-08 14:03:53,802 ERROR Code break-down, ERROR!!
+2022-06-08 14:03:53,806 ERROR Encountered an Exception, [Errno 2] No such file or directory: 'example'
+Traceback (most recent call last):
+  File "C:\Users\MAHESH~1\AppData\Local\Temp/ipykernel_20396/2121621998.py", line 8, in string_replacement
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'example'
+2022-06-08 14:04:03,890 INFO This the beginning of the code for entering example.txt
+2022-06-08 14:04:03,898 INFO Replaced the  string successfully.
